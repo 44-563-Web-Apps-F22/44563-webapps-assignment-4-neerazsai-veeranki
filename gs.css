@@ -1,0 +1,65 @@
+.speech {
+    font-family: monospace;
+    font-size: 15px;
+    color: black;
+}
+
+.song {
+    font-family: monospace;
+    font-size: 15px;
+    color: black;
+}
+
+.direction {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color: lightblue;
+}
+
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+}
+
+.direction:hover {
+    color: lightblue;
+    background-color: black;
+}
+
+.queen {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color: lightpink;    
+}
+
+.liela {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color: lightcoral;
+}
+
+.fleta {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color: lightgreen;
+}
+
+.celia {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color: lightskyblue;    
+}
+
+.willis {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color: lightgrey;
+}
+
