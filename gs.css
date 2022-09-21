@@ -32,7 +32,8 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     color: black;
-    background-color: lightpink;    
+    background-color: lightpink;  
+    padding: 10px;  
 }
 
 .leila {
@@ -40,6 +41,7 @@
     font-size: 15px;
     color: black;
     background-color: lightcoral;
+    padding: 10px;  
 }
 
 .fleta {
@@ -47,6 +49,7 @@
     font-size: 15px;
     color: black;
     background-color: lightgreen;
+    padding: 10px;  
 }
 
 .celia {
@@ -54,6 +57,7 @@
     font-size: 15px;
     color: black;
     background-color: lightskyblue;    
+    padding: 10px;  
 }
 
 .willis {
@@ -61,6 +65,7 @@
     font-size: 15px;
     color: black;
     background-color: lightgrey;
+    padding: 10px;  
 }
 
 .phyl {
@@ -68,6 +73,7 @@
     font-size: 15px;
     color: black;
     background-color: lightgoldenrodyellow;
+    padding: 10px;  
 }
 
 .lord-mount {
@@ -75,6 +81,7 @@
     font-size: 15px;
     color: black;
     background-color: lightgreen;
+    padding: 10px;  
 }
 
 .lord-toll {
@@ -82,6 +89,7 @@
     font-size: 15px;
     color: black;
     background-color: lightskyblue;
+    padding: 10px;  
 }
 
 table {
@@ -103,3 +111,8 @@ td {
 }
 
 tr:nth-child(odd) {background-color: lightgray;}
+
+.queen:hover, .leila:hover, .fleta:hover, .celia:hover, .willis:hover, .phyl:hover, .lord-mount:hover, .lord-toll:hover {
+    text-shadow: 3px 3px 3px grey;
+    border: 3px solid black;
+}
